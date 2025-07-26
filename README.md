@@ -30,7 +30,12 @@
 
 ### 📊 GitHub Stats:
 ![Anjana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjanaK31&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaK31&layout=compact&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaK31&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnjanaK31&theme=radical)](https://git.io/streak-stats)
+
 
 ---
 
