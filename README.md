@@ -33,8 +33,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaK31&layout=compact&theme=radical)
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnjanaK31&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AnjanaK31&theme=radical)](https://git.io/streak-stats)
